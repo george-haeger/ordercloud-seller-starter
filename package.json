@@ -1,0 +1,40 @@
+{
+  "name": "ordercloud-seller-starter",
+  "title": "OrderCloud Seller Starter",
+  "description": "Use this to create head start seller applications!",
+  "version": "0.1.0",
+  "author": {
+    "name": "George Haeger",
+    "email": "george.haeger@sitecore.com",
+    "url": "https://www.sitecore.com"
+  },
+  "dependencies": {
+    "next": "^12.2.5",
+    "ordercloud-javascript-sdk": "^4.10.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "sass": "^1.32.8"
+  },
+  "keywords": [
+    "next",
+    "nextjs",
+    "next js",
+    "sass",
+    "scss",
+    "css"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "homepage": "https://www.sitecore.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/georgehaeger/ordercloud-seller-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/georgehaeger/ordercloud-seller-starter/issues"
+  }
+}
