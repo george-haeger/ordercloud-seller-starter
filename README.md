@@ -50,7 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://georgehaeger.com/newsletter"><img src="https://avatars.githubusercontent.com/u/1045274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>George Haeger</b></sub></a><br /><a href="https://github.com/george-haeger/ordercloud-seller-starter./commits?author=georgehaeger" title="Code">💻</a> <a href="https://github.com/george-haeger/ordercloud-seller-starter/commits?author=georgehaeger" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://georgehaeger.com/newsletter"><img src="https://avatars.githubusercontent.com/u/93778970?s=400&amp;u=ebd34ae0296f352fa26173fb45332a874602fcc9&amp;v=4" width="100px;" alt=""/><br /><sub><b>George Haeger</b></sub></a><br /><a href="https://github.com/george-haeger/ordercloud-seller-starter./commits?author=georgehaeger" title="Code">💻</a> <a href="https://github.com/george-haeger/ordercloud-seller-starter/commits?author=georgehaeger" title="Documentation">📖</a></td>
   </tr>
 </table>
 
