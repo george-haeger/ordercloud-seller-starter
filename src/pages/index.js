@@ -12,25 +12,32 @@ export default function Home() {
   return (
     <Container>
       <Head>
-        <title>Create Next App</title>
+        <title>OrderCloud React/Next Starter Kit</title>
         <link rel="icon" href="/favicon.ico" />
 
         <meta
           name="description"
-          content="Use Sass to start your Next.js app with CSS superpowers!"
+          content="Create a custom UI/UX for our HeadStart application"
         ></meta>
       </Head>
 
       <Main>
         <h1 className={styles.title}>
-          <a href="https://nextjs.org">Next.js</a> Sass Starter
+          OrderCloud React/Next Starter Kit
         </h1>
 
         <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
+          Create a custom UI/UX for our HeadStart application
         </p>
 
         <Grid>
+        <Card>
+            <a href="/login">
+              <h2>Admin Seller Login &rarr;</h2>
+              <p>Log into the the HeadStart Seller Application</p>
+            </a>
+          </Card>
+
           <Card>
             <a href="https://nextjs.org/docs">
               <h2>Documentation &rarr;</h2>
@@ -42,13 +49,6 @@ export default function Home() {
             <a href="https://nextjs.org/learn">
               <h2>Learn &rarr;</h2>
               <p>Learn about Next.js in an interactive course with quizzes!</p>
-            </a>
-          </Card>
-
-          <Card>
-            <a href="https://github.com/vercel/next.js/tree/master/examples">
-              <h2>Examples &rarr;</h2>
-              <p>Discover and deploy boilerplate example Next.js projects.</p>
             </a>
           </Card>
 

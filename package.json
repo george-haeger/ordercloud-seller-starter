@@ -9,6 +9,7 @@
     "url": "https://www.sitecore.com"
   },
   "dependencies": {
+    "js-cookie": "^3.0.1",
     "next": "^12.2.5",
     "ordercloud-javascript-sdk": "^4.10.1",
     "react": "17.0.1",
